@@ -1,18 +1,40 @@
-package com.cg.day2.pkg1;
+package com.cg.std.service;
 
-import static com.cg.day2.lesson4.staticprg.StaticDemo.*;
+import java.util.HashSet;
+import java.util.Set;
 
+import com.cg.std.bean.Student;
 public class StaticPrg {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	private static Set<Student> obj;
+	
+	
+	static{
+		obj=new HashSet<>();
+		Student stud1=new Student("123","sam","24","9876543210","samraj@gmail.com");
 		
-		/*System.out.println(StaticDemo.ctr);
-		System.out.println(StaticDemo.num1);*/
+		obj.add(stud1);
+		stud1=new Student("124","raj","24","9876543210","jabbar@gmail.com");
+		obj.add(stud1);
 		
-		System.out.println(ctr);
-		System.out.println(num1);
+		
 	}
-
+	public static Set<Student> getObj() {
+		return obj;
+	}
+	public static void setObj(Set<Student> obj) {
+		StaticPrg.obj = obj;
+	}
+	// business methods
+	
+	public void addStudent(Student stud){
+		obj.add(stud);
+	}
+	
+	public int countTotStudents(){
+		return obj.size();
+	}
+	
+	
+	
 }
