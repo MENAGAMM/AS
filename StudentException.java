@@ -1,8 +1,11 @@
-package com.cg.std.exception;
+package com.cg.std.excp;
 
 public class StudentException extends Exception {
-
-	public StudentException(String msg){
-		super(msg);
+	
+	public StudentException(String message)
+	{
+		super(message);
 	}
+	
+
 }
