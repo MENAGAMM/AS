@@ -1,0 +1,83 @@
+1.Choose appropriate Option(s) : JavaScript is also called as _____________.
+A  None of These
+B  Server Side Scripting Language
+C* Client Side Scripting Language
+D* Browser Side Scripting Language
+ 
+
+2 JavaScript is designed for following purpose 
+A  To Style HTML Pages
+B* To add interactivity to HTML Pages.
+C  To Perform Server Side Scripting Opertion
+D To Execute Query Related to DB on Server
+
+
+3.Is this placement of JS code inside HTML Element is Error Free ?
+  <html><head><title>My Page</title>
+ </head>
+ <body>
+ <a href="javascript:myFunction();">Click here</a>
+ <script language="javascript" type="text/javascript">
+ function myFunction() {
+    alert('Hello world');
+}
+</script>
+</body>
+</html>
+
+A  No
+B* Yes
+
+
+4. <script src="../main.js"></script>
+Are you sure, Above code will include External JS inside your webpage.
+A  No
+B* Yes
+
+
+5.______ attribute is used to specify the character encoding used in an external script file.
+A  type
+B* charset
+C  character
+D  None of These
+
+6. <html>
+    <body>
+    <script type="text/javascript">
+    <!--
+    document.print("Hello");   
+    //-->
+    </script>
+    </body>
+    </html>
+
+   What will be the Output of the above Code ?
+A  Will Throw Error
+B  None of These
+C* Hello
+D  Will not print anything because of Comment.
+
+7.Which was the first browser to support JavaScript ?
+A  Mozilla Firefox
+B  Google Chrome
+C  IE
+D* Netscape
+
+8.Which of the following Attribute is used to include External JS code inside your HTML Document -
+A  link
+B  script
+C* src
+D  ext
+
+
+9.Why JavaScript is called as Lightweight Programming Language ?
+A  because JS is available free of cost.
+B  because JS is client side scripting
+C  because we can add programming functionality inside JS
+D* because JS can provide programming functionality inside but up to certain extend.
+
+10.JavaScript Code can be called by using _________.
+A* Function / Method
+B  RMI
+C* Triggering Event
+D  Preprocessor

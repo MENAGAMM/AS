@@ -1,0 +1,88 @@
+1. In the  sequential search algorithem what is the best case:
+		A.(N+1)/2
+		B.1
+		C.N
+		D.0
+
+	Ans:Option A.(N+1)/2
+
+
+2.what is the characteristic of the well defined module is?
+
+		A.High cohesion
+		B.High coupling
+		c.Low cohesion
+		D.None of the above
+
+	ANS:option A.High cohesion
+
+		
+3.What are the features of the black box testing?
+	
+		(1).The internal structure of code is not tested.
+		(2).consistency of logic on true and false sides.
+		(3).The integrity of the external information is maintained.
+		(4).validation of internal data structures.
+
+         A.(1) and (3)     B.(1),(3)and (4)  
+	 C.(2),(3) and(4)  D.All the above   E.None of the above
+
+	ANS:Option A.(1) and (3)
+
+4.In the binary search algorithem what is the average case:
+
+	
+		A.(N+1)/2
+		B.O(logn)
+		C.o(n logn)
+		D.1
+
+	ANS: Option c.O(logn)
+
+5.A good program ideally requires ___________ and ____________
+
+		A.Low coupling,Low cohesion
+		B.High coupling,High cohesion
+		c.Low coupling,High cohesion
+		D.High coupling,Low cohesion
+
+	ANS:Option B.High coupling,Low cohesion
+ 
+
+6) Which of the following is not a testing technique?
+		A)Review
+		B)Code Inspection
+		C)Walkthroug
+		D)Black Tracking
+	ans-D
+7)Purpose of Defensive Programming
+		1)To helps programs terminate gracefully
+		2)Ensure that a program returns the inaccurate result
+		3)To prevent problems before they occur 
+		4)Abnoramal termination of the program
+	A)1 and 4, B)2 and 3, C)3 and 4, D)1 and 3
+	ans-D
+8)Difference between Algorithm and pseudocode
+		A)No difference between them 
+		B)Algorithm is a group of english statements where as pseudocode is short
+		  commented in english statment representeding tasks
+		C)Pseudocode is a set of english statements where as algorithm is short
+		  commented in english statment representing tasks
+		D)none of the above 
+	ans-c
+
+		
+9)What is a compact and informal high-level description of a computer programming algorithm that uses the structural conventions of a programming language, 
+but is intended for human reading rather than machine reading.
+		A)Pseudocode
+		B)Algorithm
+		C)Flowchart
+		D)Website
+		Ans-A
+10)What are the measeures to be taken care to use the memory space efficently
+		1)Make sure program should create any dangling pointers
+		2)Use local variables 
+		3)Allocate memory statically
+		4)Use the register varables when ever it is possible
+	A)1&4    B)2&3	C)2&4	D)1&2
+	Ans-c

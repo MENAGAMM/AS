@@ -1,0 +1,202 @@
+Q1 - How to delete a local storage data in HTML5?
+
+A - To clear a local storage setting you would need to call localStorage.remove('key'); where 'key' is the key of the value you want to remove.
+
+B - If you want to clear all settings, you need to call localStorage.clear() method.
+
+C - Both of the above.
+
+D - None of the above.
+
+ANS-c
+
+Q2 - Which of the following is true about 'audio' tag in HTML5?
+
+A - HTML5 supports <audio> tag which is used to embed sound content in an HTML or XHTML document.
+
+B - The current HTML5 draft specification does not specify which audio formats browsers should support in the audio tag.
+
+C - Both of the above.
+
+D - None of the above.
+
+
+ANS-c
+
+Q3 - Which of the following tag represents an independent piece of content of a document in HTML5?
+
+A - section
+
+B - article
+
+C - aside
+
+D - header
+
+ANS-B
+
+Q4 - Which of the following is correct about custom attributes in HTML5?
+
+A - A custom data attribute starts with data- and would be named based on your requirement.
+
+B - You would be able to get the values of these attributes using JavaScript APIs or CSS in similar way as you get for standard attributes.
+
+C - Both of the above.
+
+D - None of the above.
+
+ANS-C
+
+Q5 - Which of the following attribute triggers event when the window loses focus?
+
+A - onbeforeload
+
+B - onblur
+
+C - onlostfocus
+
+D - lostfocus
+
+ANS-B
+Q6- The end tag is written with a __________ slash before the tag name.
+A-Backward
+B-Forward
+
+
+Q7-The <nav> element (Navigation Element) defines
+A. A set of graphics
+B. A set of websites
+C. A set of navigation pages
+D. A set of navigation links
+
+ANS D
+
+Q8-The use of <EMBED…> tag is
+A. It displays server information
+B. It puts a server plugin in the page
+C. It puts a browser plugin in the page
+D. It displays sounds and movies in the page
+
+ANS C
+
+Q9-The uses of <mark> tag is
+A. to display movies in the page.
+B. to highlight parts of the text.
+C. to underline parts of the text.
+D. to display graphics in the page.
+
+ANS B
+
+Q10-What are the two required attributes of HTML <img> tag?
+A. src and alt
+B. alt and mark
+C. canvas and src
+D. caption and src
+
+ANS A
+
+
+Q11-In HTML an iframe is used to
+A. Display a link within a link
+B. Display a Table within a Table
+C. Display a Picture within a Picture
+D. Display a web page within a web page
+
+ANS D
+
+Q12-Which of the following is correct commenting form in HTML?
+A. <– and –>
+B. <!– and –>
+C. <– and –!>
+D. <–! and –>
+
+ANS B
+
+Q13-Which HTML Tag will use to scroll a text in web page?
+A. <marquee> … </marquee>
+B. <scroll> … </scroll>
+C. <round> … </round>
+D. <go> … </go>
+
+ANS A
+
+
+Q14-.HTML uses 
+A. User defined tags 
+B. Pre-specified tags
+C. Fixed tags defined by the language
+ D. Tags only for linking
+
+Ans. C
+
+
+
+Q15-.Fundamental HTML Block is known as ___________. 
+
+A. HTML Body 
+B. HTML Tag
+C. HTML Attribute
+ D. HTML Element
+
+Ans. B
+
+Q16-.Which of the following is tre for caption tag
+
+a.it defines a caption for table
+b.it can specify one caption per table
+c.it must be inserted only after <table> tag
+d.All of the above
+
+Ans. D
+
+Q17-.The head element is a container for
+a.Links
+b.webpages
+c.metadata
+d.pictures
+
+Ans. C
+
+Q18-.How do you add a link which will allow the visitor to send an email from your page ?
+a) Add an image of an envelope
+b)Add <a href="sendmailtoyouraddress">
+c) Add <a href="mailto:youraddress">
+
+Ans.C
+
+
+Q19-.Which property will open a page in a new window?
+a) target="_self"
+b) target="_blank"
+c) target="_top"
+
+Ans.B
+
+
+Q20-Defining clickable sub-areas on an image is called?
+a) imagelinking
+b) imagemapping
+c) multiple linking
+
+Ans.B
+
+Q21-The background image will scroll when the user scrolls down the page, unless you add which property to the <body> tag?
+a) bgproperties="holdstill"
+b) bgproperties="fixed"
+c) bgproperties="stationary"
+
+Ans.B
+
+Q23-What is used to store information usually relevant to browsers and search engines?
+a) Tabs
+b) Cookies
+c) Metatags
+
+Ans.C
+
+Q24-Which property tells how many rows a cell should span ?
+a) colspan=n
+b) Both rowspan=n and colspan=n
+c) rowspan=n
+
+Ans.C

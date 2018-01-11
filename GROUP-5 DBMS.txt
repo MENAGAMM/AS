@@ -1,0 +1,63 @@
+1. The database schema is written in
+a) HLL
+b) DML
+c) DDL
+d) DCL
+
+2. In a relational model,relations are termed as
+a) Tuples
+b) Attributes
+c) Tables
+d) Rows
+
+3. The database environment has all the following concepts expect:
+a) Users
+b) separate files
+c) Database
+d) Database administrator
+
+4. A subschema expresses
+a) logical view
+b) physical view
+c) external view
+d) all the above
+
+5. It is possible to define a schema completely using
+a) DDL and DML
+b) DML and TCL
+c) TCL and DDL
+d) VDL and DDL
+
+6. The function that an entity plays in a relationship is called that entity's_______
+a) Participation
+b) Position
+c) Role
+d) Instance
+
+7. In a relation between the entities the type and condition of the relation should be specified.That is called as______attribute
+a) Desciptive
+b) Derived
+c) Recursive
+d) Relative
+
+8. For each attribute of a relation, there is a set of permitted values, called the ________ of that attribute.
+a) Domain
+b) Relation
+c) Set
+d) Schema
+
+9. Which-one ofthe following statements about normal forms is FALSE?
+a) BCNF is stricter than 3 NF
+b) Lossless,dependency-preserving decomposition into 3NF is always possible
+c) Loss less,dependency-preserving decomposition into BCNF is always possible
+d) Any relation with two attributes is BCNF
+
+10.Using the ______ clause retains only one copy of such identical tuples.
+a) Null
+b) Unique
+c) Not null
+d) Distinct
+
+ANSWERS:
+
+1.c   2.c   3.a   4.c   5.a   6.c   7.a   8.a   9.c  10.d

@@ -1,0 +1,78 @@
+GROUP-7 PSEUDO CODE
+
+1)In creating pseudocodes: place important words in bold.
+
+Ans - TRUE
+
+2) During modularization of the code we need to decide 
+
+Ans - Both input parameters and output parameters
+
+3)Detect the error
+begin
+  input start, finish
+  if start > finish
+  print error message
+  else
+  for n=start to finish
+  print n
+  endfor
+end
+
+Ans: END IF IS MISSING
+
+4) Good programming requires ___ cohesion and ___ coupling
+a:high,low
+b:low,high
+c:high,high
+d:low,low 
+
+Ans: HIGH cohesion and LOW coupling
+
+5.The following pseudocode is an example of a(n) ____ structure:
+get number
+get another number
+if first number is bigger than second then
+print first number
+else
+print second number
+a. sequence
+b. decision
+c. loop
+d. nested
+
+Ans:LOOP
+
+
+6.A variable name is also called a(n) ____.
+a. placeholder
+b. identifier
+c. constant
+d. hexadecimal
+Ans: b
+
+
+7. In creating pseudocodes:Put many commands on a line.
+A. True
+B. False
+
+Ans:true
+
+8.Refractoring should be performed in small chunks or phases 
+
+Ans: true
+
+9. A regression test:
+ a) Will always be automated
+ b) Will help ensure unchanged areas of the software have not been affected
+ c) Will help ensure changed areas of the software have not been affected
+ d) Can only be run during user acceptance testing
+ 
+Ans: B
+
+
+10. The type of software testing in which each module is tested along with an attempt to discover any errors in its code is known as 
+
+Ans : unit testing 
+
+ 
